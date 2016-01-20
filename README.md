@@ -2,7 +2,7 @@
 
 ## Instructor
 
-	Eric Greene
+[Eric Greene](https://www.linkedin.com/in/ericwgreene)
 
 ## Schedule
 
